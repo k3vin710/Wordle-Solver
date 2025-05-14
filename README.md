@@ -60,8 +60,7 @@ wordle-solver/
 ├── wordle.py           # Main solver implementation
 ├── words.py            # Word list handling
 ├── wordle_words.txt    # Dictionary of possible words
-├── requirements.txt    # Python package dependencies
-└── install_dependencies.bat  # Windows installation script
+└── requirements.txt    # Python package dependencies
 ```
 
 ## 🔍 How It Works
